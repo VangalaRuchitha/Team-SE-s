@@ -3,3 +3,4 @@
   - */meeting1.txt/*
 - */project-reports/*: All the periodic and final project reports.
   - */deliverable1.docx/*
+  - */Presentation SE.pptx/*
