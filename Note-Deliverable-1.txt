@@ -1,0 +1,5 @@
+- */readme.txt/*
+- */meeting-minutes/*: Logs and minutes from team meetings.
+  - */meeting1.txt/*
+- */project-reports/*: All the periodic and final project reports.
+  - */deliverable1.docx/*
